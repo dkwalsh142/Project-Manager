@@ -30,5 +30,14 @@ A full-stack **React + Firebase** web application for collaborative project and 
     - components/  
     - styles/  
   - package.json – dependencies and scripts  
-  - .gitignore  
+  - .gitignore
+  
+---
 
+## Demo
+
+<img width="1426" height="792" alt="Screenshot 2025-09-06 at 14 48 40" src="https://github.com/user-attachments/assets/5e237e00-bd81-48ba-b419-2fbf5c0d3e09" />
+
+<img width="1414" height="773" alt="Screenshot 2025-09-06 at 14 49 01" src="https://github.com/user-attachments/assets/fe17957c-25fa-47b6-8d5b-fd8f8735ceaa" />
+
+<img width="1420" height="771" alt="Screenshot 2025-09-06 at 14 49 16" src="https://github.com/user-attachments/assets/67a880e7-2280-4df6-912c-f8ddced7a763" />
